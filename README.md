@@ -5,3 +5,4 @@ To solve this challenge, the goal is to try all possible 4-digit passcodes (from
 ```
 python3 slv.py
 ```
+It takes quite a long time. However, in the end, we'll receive both the correct password and the flag.
